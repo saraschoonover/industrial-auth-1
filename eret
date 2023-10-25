@@ -1,0 +1,14 @@
+=> [32m#<PhotoPolicy:0x00007f8070309ee8[0m
+ @photo[32m=[0m
+  [32m#<Photo:0x00007f8070bd3e20[0m
+   id: [1;34m1[0m,
+   image: [31m[1;31m"[0m[31m/9.jpeg[1;31m"[0m[31m[0m,
+   comments_count: [1;34m0[0m,
+   likes_count: [1;34m3[0m,
+   caption:
+    [31m[1;31m"[0m[31mAmbition is like a frog sitting on a Venus Flytrap. The flytrap can bite and bite, but it won't bother the frog because it only has little tiny plant teeth. But some other stuff could happen and it could be like ambition.[1;31m"[0m[31m[0m,
+   owner_id: [1;34m1[0m,
+   created_at: [1;34;4mMon[0m, [1;34m16[0m [1;34;4mOct[0m [1;34m2023[0m [1;34m15[0m:[1;34m18[0m:[1;34m03[0m.[1;37;41m674695000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m,
+   updated_at: [1;34;4mMon[0m, [1;34m16[0m [1;34;4mOct[0m [1;34m2023[0m [1;34m15[0m:[1;34m18[0m:[1;34m03[0m.[1;37;41m674695000[0m [1;34;4mUTC[0m [1;34m+00[0m:[1;34m00[0m[32m>[0m,
+ @user[32m=[0m
+  [32m#<User id: 1, email: "maida@example.com", username: "maida", private: false, likes_count: 17, comments_count: 13, created_at: "2023-10-16 15:17:57.299277000 +0000", updated_at: "2023-10-16 15:17:57.299277000 +0000", photos_count: 4, avatar_image: "https://robohash.org/maida", website: "http://prohaska-greenholt.info/augusta.beahan", bio: "Thymum currus aiunt. Bellum concido sui. Somnus ar...", name: "Maida Erdman">[0m[32m>[0m
